@@ -109,7 +109,7 @@
   },
   "dependencies": {
     "clean-css": "5.1.0",
-    "electron": "^11.3.0",
+    "electron": "^11.5.0",
     "electron-builder": "^22.10.5",
     "mime-types": "^2.1.29",
     "node-abi": "2.19.3",
