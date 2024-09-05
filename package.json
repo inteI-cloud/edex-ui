@@ -109,8 +109,8 @@
   },
   "dependencies": {
     "clean-css": "5.1.0",
-    "electron": "^11.3.0",
-    "electron-builder": "^22.10.5",
+    "electron": "^22.0.0",
+    "electron-builder": "^25.0.0",
     "mime-types": "^2.1.29",
     "node-abi": "2.19.3",
     "node-json-minify": "1.0.0",
